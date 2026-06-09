@@ -49,6 +49,13 @@ Nguy cơ rò rỉ dữ liệu qua mạng (Wireshark Analysis)
 Phát hiện (Wireshark): Dữ liệu truyền tải qua HTTP thuần bị Wireshark bắt trọn gói tin, để lộ thông tin cấu hình Server (Server Header Disclosure).
 
 Biện pháp khắc phục: Cấu hình tắt tính năng tự động hiển thị phiên bản phần mềm trên Web Server và cấu hình chứng chỉ TLS để mã hóa 100% dữ liệu đường truyền.  
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f30e9e9b-0775-448f-be40-6823a34aec55" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/153d5d78-1be9-4577-ae9a-4b7e16869c57" />
+
+<img width="1220" height="837" alt="2026-06-10" src="https://github.com/user-attachments/assets/a5998063-e762-4b71-a5d4-552ffb467d90" />
+<img width="1920" height="1020" alt="2026-06-10 (1)" src="https://github.com/user-attachments/assets/29fde892-ac60-4d33-a116-84e866d69d9e" />
+<img width="1920" height="1020" alt="2026-06-10 (3)" src="https://github.com/user-attachments/assets/cee01800-0cc5-4dd5-ae3e-ba411637f3fe" />
+<img width="1920" height="1020" alt="2026-06-10 (4)" src="https://github.com/user-attachments/assets/ba842cac-2417-4bc4-952e-71f773410528" />
+
+
+
+
 
